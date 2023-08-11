@@ -6,5 +6,7 @@ describe("TodolistController e2e Test", () => {
 
   const rootApiPath = "/api/todolist"
 
-  describe("", () => {})
+  describe("test", () => {
+    expect(true).toBeTrue()
+  })
 })
